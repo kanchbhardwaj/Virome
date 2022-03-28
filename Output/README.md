@@ -1,8 +1,8 @@
 **Supplementry files**
 
-**Table S1:**
+**Table S1:** Quality summary from checkV.
 
-**Table S2:**
+**Table S2:** Contigs classification by kaiju.
 
 **Table S3:** vContact2 output. The taxonomic information to reference genomes, as well as all the clustering information, refined, confidence metrics, and misc scores.
 
