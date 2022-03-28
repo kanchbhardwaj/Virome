@@ -1,4 +1,4 @@
-Supporting code for manuscript: "Insights into human gut virome by sampling a population from the Indian subcontinent".
+Supporting code for manuscript: **"Insights into human gut virome by sampling a population from the Indian subcontinent".**
 
 1. **Pre-processing of the sequencing data and metagenome assembly:** Raw reads were processed and assembled using the pipeline described in the manuscript.
 
