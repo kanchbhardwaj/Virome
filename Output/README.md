@@ -1,6 +1,6 @@
 **Supplementry files**
 
-**Table S1:** Quality summary from checkV.
+**Table S1:** Quality summary from checkV (at d.
 
 **Table S2:** Contigs classification by kaiju.
 
