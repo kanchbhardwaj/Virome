@@ -8,7 +8,7 @@
 
 **Table S4:** Taxonomic abundance of bacterial sp. in each sample.
 
-**Table S5:**
+**Table S5:** The relative abundance of viral reads.
 
 **Table S6:** Taxonomic classification of viral contigs.
 
